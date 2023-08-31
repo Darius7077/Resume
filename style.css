@@ -10,22 +10,34 @@ body {
   body {
     background-color: #008000;
   }
+  #heading {
+    background-color: lightgreen;
+  } 
 }
 
 @media screen and (min-width: 550px){
   body {
     background-color: #fff00f;
   }
+  #heading {
+    background-color: darkgoldenrod;
+  } 
 }
 
 @media screen and (min-width: 768px){
   body {
     background-color: #ffa500;
   }
+  #heading {
+    background-color: darkorange;
+  } 
 }
 
 @media screen and (min-width: 960px){
   body {
     background-color: #eae8e8;
   }
+  #heading {
+    background-color: #d3d3d3;
+  } 
 }
